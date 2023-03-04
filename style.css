@@ -1,0 +1,171 @@
+.nav{
+    margin-top:17px;
+    font-weight: bold;
+    font-size: 13px;
+}
+.nav1{
+    border: 2px solid black;
+    padding-bottom: 16px;
+    margin-top: 4px;
+    width:120px ;
+    height:20px ;
+    
+}
+.nav6{
+    margin-top: 12px;
+}
+.nav1:hover{
+    color: red;
+    border:2px solid red;
+}
+.nav2{
+    border: 2px solid black;
+    padding-bottom: 5px;
+    padding-left: 3px;
+    width:55px ;
+    height:20px ;
+    margin-top: 17px;
+    margin-right: 5px;
+    font-weight: bold;
+    font-size: 13px;
+    
+    
+    
+}
+.nav2:hover{
+color: red;
+border: 2px solid red;
+}
+.nav3{
+    width:35px ;
+    margin-right: 12px;
+    margin-top: 17px;
+    font-weight: bold;
+    font-size: 13px;
+    border: 2px solid black;
+}
+
+.nav1{
+    width:115px ;
+    height:18px ;
+    margin-top: 17px;
+    font-weight: bold;
+    font-size: 13px;
+    padding-left: 3px;
+
+
+}
+/* .nav2{
+    padding-right: 16px;
+} */
+  .image:hover{
+    opacity: 0.5;
+    transition-duration: 2s;
+  }
+
+.image{
+    margin-top: 10px;
+width: 100%;
+height: 550px;
+
+    background-image:url("https://global.toyota/pages/global_toyota/home/pickup/2023/03/01/001_pc.jpg") ;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+
+}
+/* .image:hover{
+    color: rgb(155, 140, 140);
+} */
+.image2{
+     display: flex;
+    flex-direction: column;
+    justify-content:flex-end; 
+    height: 100%;
+     
+ 
+}
+.para{
+    color: white;
+    margin-left: 30px;
+   
+}
+.para3{
+    font-weight: bold;
+    font-size: 27px;
+} 
+span{
+    font-weight: lighter;
+}
+ .para2{
+    font-weight: lighter;
+    font-size: 13px;
+ }
+  .para1{
+     border: 1px solid red;
+      width: 55px;
+     height: 25px; 
+     padding-left: 4px;
+     padding-top: 2px;
+     background-color: red;
+     font-weight: bold;
+     font-size: 12px;
+  }
+  .noti{
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+     font-weight: bold; 
+     background-color:#d3cece;
+     width: 100%;
+     height: 80px;
+  }
+  .noti:hover{
+    color: red;
+  }
+  .container{
+    margin-top: 10px;
+    width: 100%;
+    height: 550px;
+    
+        background-image:url("./images/20230213_pressconference_01_s.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .container:hover{
+    opacity: 0.5;
+    transition-duration: 2s;
+  }
+  .container2{
+    margin-top: 0px;
+    width: 100%;
+    height: 700px;
+    
+        background-image:url("./images/20230126_01_01_s.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .container2:hover{
+    opacity: 0.5;
+    transition-duration: 2s;
+  }
+  .para4{
+    color: rgb(196, 190, 190);
+  }
+.card-text:hover{
+color: red;
+  }
+ .hovr:hover{
+    color: red;
+    transition-duration: 1s;
+ }
+ .span,.span2{
+    color: white;
+    font-size: 15px;
+ }
+ .span:hover{
+    color: red;
+ }
